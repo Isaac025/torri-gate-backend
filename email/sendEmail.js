@@ -28,7 +28,7 @@ const sendMail = async ({ to, subject, html }) => {
 
 const sendWelcomeEmail = ({ fullName, clientUrl, email }) => {
   const subject = "Welcome to Torii Gates";
-  const html = createWelcomeTemplate(fullName, clientUrl);
+  const html = createWelcomeTemplates(fullName, clientUrl);
   sendMail({ to: email, subject, html });
 };
 
