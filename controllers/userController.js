@@ -1,5 +1,6 @@
 const USER = require("../models/user");
 const bcrypt = require("bcryptjs");
+const generateToken = require("../helpers/generateToken");
 
 const handleRegister = async (req, res) => {
   const { fullName, email, password, phoneNumber, role } = req.body;
@@ -19,6 +20,8 @@ const handleRegister = async (req, res) => {
     const salt = await bcrypt.genSalt();
     const hashedPassword = await bcrypt.hash(password, salt);
     //verify process
+    const verificationToken = generateToken();
+    const verificationTokenExpires = Date.now() + 24 * 60 * 60 * 1000;
     //save to db
     const user = await USER.create({
       fullName,
@@ -26,6 +29,8 @@ const handleRegister = async (req, res) => {
       password: hashedPassword,
       role: role || "tenant",
       phoneNumber,
+      verificationToken,
+      verificationTokenExpires,
     });
 
     return res

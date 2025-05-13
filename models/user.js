@@ -15,7 +15,7 @@ const userSchema = new Schema(
       lowercase: true,
       match: /^[^\s@]+@[^\s@]+\.[^\s@]+$/,
     },
-    phoneumber: {
+    phoneNumber: {
       type: String,
       unique: true,
       match: /^\+?[1-9][0-9]{7,14}$/,
