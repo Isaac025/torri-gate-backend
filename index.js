@@ -8,6 +8,7 @@ const userRouter = require("./routes/userRouter");
 
 //middleware
 app.use(express.json());
+app.use(cors());
 
 //routes
 app.get("/", (req, res) => {
