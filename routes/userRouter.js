@@ -18,11 +18,11 @@ router.post("/login", handleLogin);
 router.post("/resend-email", resendVerificationEmail);
 router.post("/forgot-password", handleForgotPassword);
 router.post("/reset-password", handleResetPassword);
-router.get("/user", handleGetUser);
+router.get("/user", isLoggedIn, handleGetUser);
 router.patch(
   "/user",
   isLoggedIn,
-  requirePermissions(["landlord"]),
+  requirePermissions("landlord"),
   handleUpdateUser
 );
 

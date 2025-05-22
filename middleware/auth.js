@@ -37,8 +37,8 @@ const requirePermissions = (...roles) => {
         .status(403)
         .json({ message: "Unauthorized to access this route" });
     }
+    next();
   };
-  next();
 };
 
 module.exports = { isLoggedIn, requirePermissions };
