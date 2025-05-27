@@ -1,0 +1,370 @@
+[
+  {
+    "title": "Modern 2 Bedroom Flat in Lekki",
+    "description": "Spacious flat with all modern amenities in a secure estate.",
+    "price": 1200000,
+    "location": "Lekki, Lagos",
+    "bedroom": 2,
+    "livingRoom": 1,
+    "kitchen": 1,
+    "toilet": 2,
+    "paymentPeriod": "yearly",
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1689609950112-d66095626efb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YnVuZ2Fsb3d8ZW58MHx8MHx8fDA%3D",
+      "https://img.freepik.com/premium-photo/fashionable-designer-living-room-interior-warm-colors-artdeco-upholstered-furniture-coffee-table-side-table-with-lamp-metal-floor-lamp-sideboard-with-decor-tv-unit-3d-rendering_295714-5317.jpg?ga=GA1.1.1071869672.1747165893&semt=ais_items_boosted&w=740",
+      "https://img.freepik.com/free-photo/gray-sofa-living-room-with-copy-space_43614-926.jpg?ga=GA1.1.1071869672.1747165893&semt=ais_items_boosted&w=740"
+    ],
+    "availability": "available",
+    "landlord": "682f0567ab20df1e331b6553"
+  },
+  {
+    "title": "Affordable Self Contain in Yaba",
+    "description": "Neatly tiled self contain close to Unilag gate.",
+    "price": 150000,
+    "location": "Yaba, Lagos",
+    "bedroom": 1,
+    "livingRoom": 0,
+    "kitchen": 1,
+    "toilet": 1,
+    "paymentPeriod": "monthly",
+    "images": [
+      "https://img.freepik.com/premium-photo/design-luxury-apartments-modern-style-with-designer-furniture-large-curtains-3d-rendering_295714-3890.jpg?ga=GA1.1.1071869672.1747165893&semt=ais_items_boosted&w=740",
+      "https://img.freepik.com/premium-photo/dining-room-furnishings-luxurious-inviting-space-with-cozy-fabric-chairs-wooden-tables-simple-style-chandelier-hanging-wooden-ceiling_848676-1976.jpg?ga=GA1.1.1071869672.1747165893&semt=ais_items_boosted&w=740",
+      "https://img.freepik.com/premium-photo/modern-living-room-interior-with-sofa-and-armchair-3d-rendering_295714-3891.jpg?ga=GA1.1.1071869672.1747165893&semt=ais_items_boosted&w=740"
+    ],
+    "availability": "available",
+    "landlord": "682f0567ab20df1e331b6553"
+  },
+  {
+    "title": "3 Bedroom Duplex in Wuse",
+    "description": "Well-maintained duplex with parking and water supply.",
+    "price": 2500000,
+    "location": "Wuse, Abuja",
+    "bedroom": 3,
+    "livingRoom": 1,
+    "kitchen": 1,
+    "toilet": 3,
+    "paymentPeriod": "yearly",
+    "images": [
+      "https://images.unsplash.com/photo-1667510436110-79d3dabc2008?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YXBhcnRtZW50JTIwaW50ZXJpb3J8ZW58MHx8MHx8fDA%3D",
+      "https://plus.unsplash.com/premium_photo-1674676471622-feaf2130fc73?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGFwYXJ0bWVudCUyMGludGVyaW9yfGVufDB8fDB8fHww",
+      "https://plus.unsplash.com/premium_photo-1678903964473-1271ecfb0288?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YXBhcnRtZW50JTIwZXh0ZXJpb3J8ZW58MHx8MHx8fDA%3D"
+    ],
+    "availability": "available",
+    "landlord": "682f0567ab20df1e331b6553"
+  },
+  {
+    "title": "Studio Apartment in Surulere",
+    "description": "Compact and affordable studio with ensuite toilet.",
+    "price": 100000,
+    "location": "Surulere, Lagos",
+    "bedroom": 1,
+    "livingRoom": 0,
+    "kitchen": 0,
+    "toilet": 1,
+    "paymentPeriod": "monthly",
+    "images": [
+      "https://img.freepik.com/premium-photo/houses-field-against-sky_1048944-30616601.jpg?ga=GA1.1.1071869672.1747165893&semt=ais_items_boosted&w=740",
+      "https://img.freepik.com/premium-photo/thanksgiving-autumn-leaves-layout-with-postcard-wood-background_361349-5.jpg?ga=GA1.1.1071869672.1747165893&semt=ais_items_boosted&w=740",
+      "https://img.freepik.com/premium-photo/house-image_573563-2203.jpg?ga=GA1.1.1071869672.1747165893&semt=ais_items_boosted&w=740"
+    ],
+    "availability": "available",
+    "landlord": "682f0567ab20df1e331b6553"
+  },
+  {
+    "title": "4 Bedroom Duplex in Port Harcourt",
+    "description": "Luxury duplex in a serene environment with borehole water.",
+    "price": 3000000,
+    "location": "GRA, Port Harcourt",
+    "bedroom": 4,
+    "livingRoom": 2,
+    "kitchen": 1,
+    "toilet": 4,
+    "paymentPeriod": "yearly",
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aG9tZXN8ZW58MHx8MHx8fDA%3D",
+      "https://images.unsplash.com/photo-1628624747186-a941c476b7ef?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aG9tZXN8ZW58MHx8MHx8fDA%3D",
+      "https://plus.unsplash.com/premium_photo-1680100256112-2e1231d9d0df?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGhvbWVzfGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1623005329287-0848374575d3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGhvbWVzfGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1722491945502-abb7235593f2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGhvbWVzfGVufDB8fDB8fHww"
+    ],
+    "availability": "available",
+    "landlord": "682f0567ab20df1e331b6553"
+  },
+  {
+    "title": "Mini Flat in Ajah",
+    "description": "Comfortable mini flat with prepaid meter and balcony.",
+    "price": 300000,
+    "location": "Ajah, Lagos",
+    "bedroom": 1,
+    "livingRoom": 1,
+    "kitchen": 1,
+    "toilet": 1,
+    "paymentPeriod": "yearly",
+    "images": [
+      "https://images.unsplash.com/photo-1628133287836-40bd5453bed1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aG91c2luZ3xlbnwwfHwwfHx8MA%3D%3D",
+      "https://images.unsplash.com/photo-1621983209348-7b5a63f23866?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGhvdXNpbmd8ZW58MHx8MHx8fDA%3D",
+      "https://images.unsplash.com/photo-1457821324592-4ce8426fd1e5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGhvdXNpbmd8ZW58MHx8MHx8fDA%3D"
+    ],
+    "availability": "available",
+    "landlord": "682f0567ab20df1e331b6553"
+  },
+  {
+    "title": "2 Bedroom Flat in Gwarinpa",
+    "description": "Well-finished flat in a gated estate.",
+    "price": 1800000,
+    "location": "Gwarinpa, Abuja",
+    "bedroom": 2,
+    "livingRoom": 1,
+    "kitchen": 1,
+    "toilet": 2,
+    "paymentPeriod": "yearly",
+    "images": [
+      "https://images.unsplash.com/photo-1643906651695-4c93cb0dea7b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YXBhcnRtZW50JTIwZXh0ZXJpb3J8ZW58MHx8MHx8fDA%3D",
+      "https://plus.unsplash.com/premium_photo-1680100255906-09ffdc2eeaaf?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8ZmxhdHxlbnwwfHwwfHx8MA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1684175656172-19a7ee56f0c8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGZsYXR8ZW58MHx8MHx8fDA%3D"
+    ],
+    "availability": "available",
+    "landlord": "682f0567ab20df1e331b6553"
+  },
+  {
+    "title": "Self Contain in Ikorodu",
+    "description": "Affordable room and parlor self contain.",
+    "price": 50000,
+    "location": "Ikorodu, Lagos",
+    "bedroom": 1,
+    "livingRoom": 1,
+    "kitchen": 1,
+    "toilet": 1,
+    "paymentPeriod": "monthly",
+    "images": [
+      "https://photos.zillowstatic.com/fp/e93faa6e089b83d6c06a2e3f43f046cf-cc_ft_960.webp",
+      "https://photos.zillowstatic.com/fp/09f449be6a7a3959af67dbde99cd9b05-cc_ft_576.webp",
+      "https://photos.zillowstatic.com/fp/e2d598915ea12f5ffc0ce62a223b2bba-cc_ft_576.webp",
+      "https://photos.zillowstatic.com/fp/42d0b7ee3a322f70cd7adb88064a5347-cc_ft_576.webp"
+    ],
+    "availability": "available",
+    "landlord": "682f0567ab20df1e331b6553"
+  },
+  {
+    "title": "3 Bedroom Apartment in Asaba",
+    "description": "Comfortable apartment with modern kitchen.",
+    "price": 850000,
+    "location": "Asaba, Delta State",
+    "bedroom": 3,
+    "livingRoom": 1,
+    "kitchen": 1,
+    "toilet": 3,
+    "paymentPeriod": "yearly",
+    "images": [
+      "https://photos.zillowstatic.com/fp/da9eb79a2859163bac80aa9bdaaa2a15-cc_ft_960.webp",
+      "https://photos.zillowstatic.com/fp/cc68e8a43d81e9d0cf3703bdc4a69bc9-cc_ft_576.webp",
+      "https://photos.zillowstatic.com/fp/2518e8a53e849f3ceb5e84c786219264-cc_ft_576.webp",
+      "https://photos.zillowstatic.com/fp/bbebd84f0ea1afbab3137fec17adf810-cc_ft_576.webp",
+      "https://photos.zillowstatic.com/fp/c21a4e0a42609e9e998cac20a33c2b99-cc_ft_576.webp"
+    ],
+    "availability": "available",
+    "landlord": "682f0567ab20df1e331b6553"
+  },
+  {
+    "title": "Mini Flat in Festac",
+    "description": "Tiled mini flat with kitchen cabinet and wardrobe.",
+    "price": 350000,
+    "location": "Festac, Lagos",
+    "bedroom": 1,
+    "livingRoom": 1,
+    "kitchen": 1,
+    "toilet": 1,
+    "paymentPeriod": "yearly",
+    "images": [
+      "https://photos.zillowstatic.com/fp/ad8037fb1b227941f2ae9087715ec562-cc_ft_960.webp",
+      "https://photos.zillowstatic.com/fp/1742ac5b8db194110271d0b746c28529-cc_ft_576.webp",
+      "https://photos.zillowstatic.com/fp/f823c0f942fc97fac13360db88cfcd70-cc_ft_576.webp"
+    ],
+    "availability": "available",
+    "landlord": "682f0567ab20df1e331b6553"
+  },
+  {
+    "title": "2 Bedroom Flat in Owerri",
+    "description": "Clean and spacious flat with POP ceiling.",
+    "price": 400000,
+    "location": "Owerri, Imo State",
+    "bedroom": 2,
+    "livingRoom": 1,
+    "kitchen": 1,
+    "toilet": 2,
+    "paymentPeriod": "yearly",
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1722048810826-751afbcc98c0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aW50ZXJpb3JzfGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1615875474908-f403116f5287?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8aW50ZXJpb3JzfGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1616046229478-9901c5536a45?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aW50ZXJpb3JzfGVufDB8fDB8fHww"
+    ],
+    "availability": "available",
+    "landlord": "682f0567ab20df1e331b6553"
+  },
+  {
+    "title": "Single Room in Mushin",
+    "description": "Basic single room, no kitchen.",
+    "price": 20000,
+    "location": "Mushin, Lagos",
+    "bedroom": 1,
+    "livingRoom": 0,
+    "kitchen": 0,
+    "toilet": 1,
+    "paymentPeriod": "monthly",
+    "images": [
+      "https://images.unsplash.com/photo-1615874694520-474822394e73?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aW50ZXJpb3JzfGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1631724604275-af3bbb5c904d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGludGVyaW9yc3xlbnwwfHwwfHx8MA%3D%3D",
+      "https://images.unsplash.com/photo-1633110187937-6e3b2f36dfca?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGludGVyaW9yc3xlbnwwfHwwfHx8MA%3D%3D"
+    ],
+    "availability": "available",
+    "landlord": "682f0567ab20df1e331b6553"
+  },
+  {
+    "title": "4 Bedroom Duplex in Enugu",
+    "description": "Spacious duplex with fenced compound and borehole.",
+    "price": 2000000,
+    "location": "Enugu, Enugu State",
+    "bedroom": 4,
+    "livingRoom": 2,
+    "kitchen": 1,
+    "toilet": 4,
+    "paymentPeriod": "yearly",
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1676670615614-fc48b36e3766?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YXBhdG1lbnR8ZW58MHx8MHx8fDA%3D",
+      "https://media.istockphoto.com/id/1421422160/photo/interior-of-living-room.webp?a=1&b=1&s=612x612&w=0&k=20&c=z0nRq3IMBRow4NotaBjxVVc8cLReRe69Yty0QPOPjqI=",
+      "https://images.unsplash.com/photo-1675279200694-8529c73b1fd0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXBhcnRtZW50JTIwaW50ZXJpb3J8ZW58MHx8MHx8fDA%3D"
+    ],
+    "availability": "rented",
+    "landlord": "682f0567ab20df1e331b6553"
+  },
+  {
+    "title": "Luxury 3 Bedroom Flat in Maitama",
+    "description": "Exquisite finishing, serviced with generator and water.",
+    "price": 3500000,
+    "location": "Maitama, Abuja",
+    "bedroom": 3,
+    "livingRoom": 1,
+    "kitchen": 1,
+    "toilet": 3,
+    "paymentPeriod": "yearly",
+    "images": [
+      "https://images.unsplash.com/photo-1599243272864-e9dd455966bd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGFwYXJ0bWVudCUyMGludGVyaW9yfGVufDB8fDB8fHww",
+      "https://media.istockphoto.com/id/1980326931/photo/modern-cozy-bedroom-in-pastel-tones.webp?a=1&b=1&s=612x612&w=0&k=20&c=jGb900c7pQTPtOrPUVtXww9te5xnyBpfPMjdNn7IKmk=",
+      "https://media.istockphoto.com/id/1261144904/photo/apartment-kitchen-in-modern-rustic-style.webp?a=1&b=1&s=612x612&w=0&k=20&c=ZQwUS83rQaYGZyUltnfT_zhUNwMazaVYRU-JhVjMqDk="
+    ],
+    "availability": "rented",
+    "landlord": "682f0567ab20df1e331b6553"
+  },
+  {
+    "title": "2 Bedroom Flat in Ilorin",
+    "description": "Furnished apartment with tiled floors and borehole.",
+    "price": 550000,
+    "location": "Ilorin, Kwara State",
+    "bedroom": 2,
+    "livingRoom": 1,
+    "kitchen": 1,
+    "toilet": 2,
+    "paymentPeriod": "yearly",
+    "images": [
+      "https://images.unsplash.com/photo-1616593871468-2a9452218369?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGludGVyaW9yc3xlbnwwfHwwfHx8MA%3D%3D",
+      "https://images.unsplash.com/photo-1616046330109-09ee9e34be48?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGludGVyaW9yc3xlbnwwfHwwfHx8MA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1682716387370-b263d655d108?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjF8fGludGVyaW9yc3xlbnwwfHwwfHx8MA%3D%3D"
+    ],
+    "availability": "available",
+    "landlord": "682f0567ab20df1e331b6553"
+  },
+  {
+    "title": "Room Self Contain in Agege",
+    "description": "Newly built self contain close to the main road.",
+    "price": 70000,
+    "location": "Agege, Lagos",
+    "bedroom": 1,
+    "livingRoom": 0,
+    "kitchen": 1,
+    "toilet": 1,
+    "paymentPeriod": "monthly",
+    "images": [
+      "https://img.freepik.com/free-photo/3d-rendering-loft-luxury-living-room-with-bookshelf-near-bookshelf_105762-2224.jpg?ga=GA1.1.1071869672.1747165893&semt=ais_items_boosted&w=740",
+      "https://img.freepik.com/premium-photo/illustration-living-room-interior_252025-155333.jpg?ga=GA1.1.1071869672.1747165893&semt=ais_items_boosted&w=740",
+      "https://img.freepik.com/free-photo/yellow-armchair-living-room-with-copy-space_43614-940.jpg?ga=GA1.1.1071869672.1747165893&semt=ais_items_boosted&w=740"
+    ],
+    "availability": "available",
+    "landlord": "682f0567ab20df1e331b6553"
+  },
+  {
+    "title": "1 Bedroom Flat in Sango Ota",
+    "description": "Gated compound, ample water and power supply.",
+    "price": 150000,
+    "location": "Sango Ota, Ogun State",
+    "bedroom": 1,
+    "livingRoom": 1,
+    "kitchen": 1,
+    "toilet": 1,
+    "paymentPeriod": "yearly",
+    "images": [
+      "https://img.freepik.com/premium-photo/luxurious-suburban-home-exterior-with-modern-architecture-expansive-lawn-sunset-sky_875722-42996.jpg?ga=GA1.1.1071869672.1747165893&semt=ais_items_boosted&w=740",
+      "https://img.freepik.com/free-photo/luxury-house-with-swimming-pool-garden-generated-by-ai_188544-10276.jpg?ga=GA1.1.1071869672.1747165893&semt=ais_items_boosted&w=740",
+      "https://img.freepik.com/premium-photo/two-story-suburban-house_332679-26120.jpg?ga=GA1.1.1071869672.1747165893&semt=ais_items_boosted&w=740"
+    ],
+    "availability": "rented",
+    "landlord": "682f0567ab20df1e331b6553"
+  },
+  {
+    "title": "Luxury Penthouse in Victoria Island",
+    "description": "Fully serviced penthouse with sea view.",
+    "price": 7000000,
+    "location": "Victoria Island, Lagos",
+    "bedroom": 5,
+    "livingRoom": 2,
+    "kitchen": 2,
+    "toilet": 5,
+    "paymentPeriod": "yearly",
+    "images": [
+      "https://img.freepik.com/free-photo/analog-city-landscape-with-buildings_23-2149661424.jpg?ga=GA1.1.1071869672.1747165893&semt=ais_items_boosted&w=740",
+      "https://img.freepik.com/free-photo/modern-residential-district-with-green-roof-balcony-generated-by-ai_188544-10276.jpg?ga=GA1.1.1071869672.1747165893&semt=ais_items_boosted&w=740",
+      "https://img.freepik.com/premium-photo/home-with-driveway-that-has-driveway-that-has-garage-door-that-says-welcome-home_1291376-1855.jpg?ga=GA1.1.1071869672.1747165893&semt=ais_items_boosted&w=740",
+      "https://img.freepik.com/premium-photo/elegant-suburban-red-brick-home-with-landscaped-lawn-eyelevel-view_501731-16363.jpg?ga=GA1.1.1071869672.1747165893&semt=ais_items_boosted&w=740",
+      "https://img.freepik.com/premium-photo/new-residential-house-with-concrete-pathway-front-yard_769578-3249.jpg?ga=GA1.1.1071869672.1747165893&semt=ais_items_boosted&w=740",
+      "https://img.freepik.com/premium-photo/luxury-residential-house-with-concrete-pathway-green-lawn-front_769578-2405.jpg?ga=GA1.1.1071869672.1747165893&semt=ais_items_boosted&w=740"
+    ],
+    "availability": "available",
+    "landlord": "682f0567ab20df1e331b6553"
+  },
+  {
+    "title": "Shared Apartment in Akure",
+    "description": "3 Bedroom shared apartment with individual toilets.",
+    "price": 100000,
+    "location": "Akure, Ondo State",
+    "bedroom": 1,
+    "livingRoom": 1,
+    "kitchen": 1,
+    "toilet": 1,
+    "paymentPeriod": "monthly",
+    "images": [
+      "https://media.istockphoto.com/id/1060806178/photo/a-row-of-new-townhouses-or-condominiums.webp?a=1&b=1&s=612x612&w=0&k=20&c=27_m4iGPEvyTgPXsfG8WAEudr7xdMOWlyTsGN1MUAUY=",
+      "https://images.unsplash.com/photo-1689214718217-1beaebb918bf?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZHVwbGV4fGVufDB8fDB8fHww",
+      "https://media.istockphoto.com/id/1218368791/photo/3d-rendering-interior-house-modern-open-living-space-with-kitchen-loft-style-duplex-apartment.webp?a=1&b=1&s=612x612&w=0&k=20&c=CReSm2_t6ncp6B_D89a7jOgzsMBxlnoePKFM_MHh3sU="
+    ],
+    "availability": "available",
+    "landlord": "682f0567ab20df1e331b6553"
+  },
+  {
+    "title": "Serviced Flat in Jos",
+    "description": "2 Bedroom flat with solar power and borehole.",
+    "price": 400000,
+    "location": "Jos, Plateau State",
+    "bedroom": 2,
+    "livingRoom": 1,
+    "kitchen": 1,
+    "toilet": 2,
+    "paymentPeriod": "yearly",
+    "images": [
+      "https://media.istockphoto.com/id/1329150965/photo/holiday-in-poland-colorful-swedish-style-cabin-houses-in-a-summer-day.webp?a=1&b=1&s=612x612&w=0&k=20&c=6nlCIephPmLWbEecDoVhiA2amyhZ0wZMUt8FGhvcEWQ=",
+      "https://images.unsplash.com/photo-1711114378455-b1f479d94a19?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGJ1bmdhbG93fGVufDB8fDB8fHww",
+      "https://plus.unsplash.com/premium_photo-1677735108001-cd9b99efd5ff?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGJ1bmdhbG93fGVufDB8fDB8fHww"
+    ],
+    "availability": "rented",
+    "landlord": "682f0567ab20df1e331b6553"
+  }
+]
