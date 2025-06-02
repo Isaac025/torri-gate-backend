@@ -139,7 +139,7 @@ const getAProperty = async (req, res) => {
 
     // similar price range 20% of the property price location
     //Ajah lagos - geoLocation
-    // 1000 800 - 1200
+    // 1000 800 - 1200 heejke
 
     const priceRange = property.price * 0.2;
     const similarProperties = await PROPERTY.find({
