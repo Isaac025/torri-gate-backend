@@ -6,6 +6,7 @@ const {
   updatePropertyAvailability,
   getAllProperties,
   getAProperty,
+  deleteProperty,
 } = require("../controllers/propertyController");
 
 const { isLoggedIn, requirePermissions } = require("../middleware/auth");
@@ -24,6 +25,13 @@ router.patch(
   isLoggedIn,
   requirePermissions("landlord"),
   updatePropertyAvailability
+);
+
+router.delete(
+  "/landlord/:propertyId",
+  isLoggedIn,
+  requirePermissions("landlord"),
+  deleteProperty
 );
 
 //tenants
